@@ -6,3 +6,4 @@ for x in languages:
   print(x)
 
 print("This is all for today.")
+print("Bye")
